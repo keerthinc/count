@@ -1,0 +1,64 @@
+body{
+    
+    background-image: url("lib.png");
+    background-size: 1800px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:bold;
+    text-align:center;
+}
+.bg-image
+{
+    
+    filter:blur(6px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    margin-top:30px;
+    margin-bottom:10px;
+    font-size: 50px;
+}
+
+h2{
+    font-size: 50px;
+    margin-top:0;
+    margin-bottom:20px;
+}
+p
+{
+    font-size: 25px;
+}
+
+button{
+    border:none;
+    padding-top:10px;
+    padding-bottom: 10px;
+    color:white;
+    font-weight:bold;
+    width :200px;
+    margin-bottom:5px;
+    border-radius:5px;
+}
+
+#increment-btn
+{
+    background: darkblue;
+}
+
+#save-btn
+{
+    background:darkgreen;
+}
+
+#decrement-btn
+{
+    background-color: darkred;
+}
+
+
+#save-btn1
+{
+    background:darkgreen;
+}
